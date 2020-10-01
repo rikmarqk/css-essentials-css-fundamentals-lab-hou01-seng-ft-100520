@@ -18,11 +18,11 @@ a {
   background-color: #C3C3C3;
 }
 
-p#featured-property {
+#featured-property p {
   width: 800px;
 }
 
-div#details {
+#details div {
   float: left;
 }
 
